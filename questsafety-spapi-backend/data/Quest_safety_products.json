@@ -453,61 +453,7 @@
       }
     ]
   },
-  {
-    "ItemId": "14387",
-    "ItemDesc": "GOGGLE MONOGOGGLE 211 CLEAR IV",
-    "ExtendedDesc": "KIMBERLY-CLARK / JACKSON SAFETY, SOFT PLASTIC FRAME, NOSE PIECE, ANSI Z87.1+, 3000013",
-    "Price1": 0.0,
-    "Price2": 0.0,
-    "Price3": 0.0,
-    "Price4": 0.0,
-    "Price5": 0.0,
-    "Price6": 0.0,
-    "Price7": 0.0,
-    "Price8": 0.0,
-    "Price9": 0.0,
-    "Price10": 0.0,
-    "ClassId1": "EYE",
-    "ClassId2": "EYEPROT",
-    "ClassId3": "PRICESKU",
-    "ClassId4": "UNILOG",
-    "ClassId5": "WEB",
-    "SalesPricingUnit": "EA",
-    "SalesPricingUnitSize": 1.0,
-    "PurchasePricingUnit": "EA",
-    "PurchasePricingUnitSize": 1.0,
-    "DefaultSellingUnit": "EA",
-    "DefaultPurchasingUnit": "EA",
-    "BaseUnit": "EA",
-    "Suppliers": [
-      {
-        "SupplierId": 4283,
-        "Cost": 0.0,
-        "LeadTimeDays": 0
-      },
-      {
-        "SupplierId": 3941,
-        "Cost": 0.0,
-        "LeadTimeDays": 0
-      },
-      {
-        "SupplierId": 1,
-        "Cost": 0.0,
-        "LeadTimeDays": 0
-      },
-      {
-        "SupplierId": 4066,
-        "Cost": 5.566,
-        "LeadTimeDays": 0
-      }
-    ],
-    "UnitsOfMeasure": [
-      {
-        "UnitOfMeasure": "EA",
-        "UnitSize": 1.0
-      }
-    ]
-  },
+  
   {
     "ItemId": "1587 FC",
     "ItemDesc": "Fluke 1587 FC Insulation Multimeter",
