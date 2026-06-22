@@ -1,0 +1,1 @@
+﻿console.log("apply_cost_markup.mjs is retired. QuestSafety realtime ERP products already include supplier costs and sales prices; the app now uses the highest positive supplier cost directly from data/Quest_safety_products.json.");

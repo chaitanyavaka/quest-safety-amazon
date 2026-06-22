@@ -1,0 +1,4721 @@
+[
+  {
+    "ItemId": "0115-B",
+    "ItemDesc": "Quantumwear Separate Boot Cover",
+    "ExtendedDesc": "200 PCS/CS",
+    "Price1": 140.15,
+    "Price2": 140.15,
+    "Price3": 140.15,
+    "Price4": 127.1,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 1012023.0,
+    "Price10": 1.0,
+    "ClassId1": "QUEST",
+    "ClassId2": "PPE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 3984,
+        "Cost": 45.17,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4083,
+        "Cost": 39.46,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "0115-S",
+    "ItemDesc": "QUANTUMWEAR SLEEVE w Elastic Arm & Wrist",
+    "ExtendedDesc": "200 sleeves/cs",
+    "Price1": 106.26,
+    "Price2": 106.26,
+    "Price3": 106.26,
+    "Price4": 77.28,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 1.0,
+    "ClassId1": "QUEST",
+    "ClassId2": "PPE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3984,
+        "Cost": 62.98,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4083,
+        "Cost": 23.7,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "01173C",
+    "ItemDesc": "Quantumwear C LG H&B Yel Splash W/Taped",
+    "ExtendedDesc": "Large H&B W/Taped Seams 25/CS Yellow",
+    "Price1": 369.05,
+    "Price2": 369.05,
+    "Price3": 369.05,
+    "Price4": 294.43,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 1012023.0,
+    "Price10": 0.0,
+    "ClassId1": "QUEST",
+    "ClassId2": "PPE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3984,
+        "Cost": 96.21,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4083,
+        "Cost": 91.19,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "103711",
+    "ItemDesc": "KIT ASBESTOS REMOVAL",
+    "ExtendedDesc": "QUEST, LEATHER GLOVES (1), 6MIL NITRILE GLOVES (1), 4X4 6MIL CLEAR POLY SHEET (1), 30X40 6MIL BLACK ASBESTOS BAG LABELED (2), 2X60YD DUCT TAPE (1), 13 GALLON GARBAGE BAG (1), 32OZ SPRAY BOTTLE \"AMENDED WATER\" (1), SCRUB PAD (1), ZIP LOCK BAG (1)",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 1.0,
+    "ClassId1": "QUEST",
+    "ClassId2": "MISC",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4380,
+        "Cost": 8.25,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "10808",
+    "ItemDesc": "Ladder Stability Anchor",
+    "ExtendedDesc": "Allows for secure attachment, without penetration, of the fascia board or to rafters\r\nIdeal for workers needing to access rooftops of existing or new homes\r\nNo special tools are required and it only takes seconds to attach\r\nIncludes two 48\" straps",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 1.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3844,
+        "Cost": 58.7,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "113145",
+    "ItemDesc": "GlobalMark Label 1.125in W x 100ft L",
+    "ExtendedDesc": "GlobalMark Continous Indoor Outdoor Vinyl Labels - Gray",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 1.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 4107,
+        "Cost": 194.35,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "113152",
+    "ItemDesc": "GlobalMark Label 2.25in W x 100ft L",
+    "ExtendedDesc": "GlobalMark Continous Indoor Outdoor Vinyl Labels - Orange",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 1.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 4107,
+        "Cost": 287.23,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "122001.02",
+    "ItemDesc": "Martego Safety Knife",
+    "ExtendedDesc": "Fully automatic retractable blade for safety\r\n-Ergonomically friendly trigger mechanism to engage the blade\r\n-Durable body made of aluminum\r\n-Safer alternative to fixed blade utility knives for general cutting tasks\r\n-1/2\" of blade extension\r\n-Easy, tool",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 1.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "MISC",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3982,
+        "Cost": 21.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "13002100K",
+    "ItemDesc": "EYE ACC FR CHUMS KEVLAR BLACK 10/PK",
+    "ExtendedDesc": "CHUMS, BREAK AWAY DESIGN, NFPA 70E CERTIFIED, FITS MOST STANDARD SAFETY GLASS FRAMES, CUT & PUNTURE RESISTANT, NON-CONDUCTIVE, 10EA/PK",
+    "Price1": 91.6,
+    "Price2": 84.66,
+    "Price3": 77.72,
+    "Price4": 0.0,
+    "Price5": 0.345,
+    "Price6": 0.2913,
+    "Price7": 0.228,
+    "Price8": 60.0,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "CLOTHES",
+    "ClassId2": "FRCLOTH",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "PK",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "PK",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "PK",
+    "DefaultPurchasingUnit": "PK",
+    "BaseUnit": "PK",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3692,
+        "Cost": 60.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "PK",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "14-827-122",
+    "ItemDesc": "5Qt Sharps-A-Gator™ Point-of-Use Sharps",
+    "ExtendedDesc": "Container 30/case 5Qt Sharps-A-Gator™ Point-of-Use Sharps",
+    "Price1": 270.8,
+    "Price2": 259.25,
+    "Price3": 247.68,
+    "Price4": 0.0,
+    "Price5": 0.25,
+    "Price6": 0.2166,
+    "Price7": 0.18,
+    "Price8": 203.1,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "LABSUP",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 30.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3805,
+        "Cost": 6.77,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 30.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "14387",
+    "ItemDesc": "GOGGLE MONOGOGGLE 211 CLEAR IV",
+    "ExtendedDesc": "KIMBERLY-CLARK / JACKSON SAFETY, SOFT PLASTIC FRAME, NOSE PIECE, ANSI Z87.1+, 3000013",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "EYE",
+    "ClassId2": "EYEPROT",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 4283,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3941,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 5.566,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "1587 FC",
+    "ItemDesc": "Fluke 1587 FC Insulation Multimeter",
+    "ExtendedDesc": "Fluke 1587 FC True-RMS Megohmmeter/Insulation Resistance Tester and Multimeter with Fluke Connect Compatibility. Insulation test voltages: 50 V, 100 V, 250 V, 500 V, 1000 V",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 18135,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 19379,
+        "Cost": 805.99,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3595,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "1610-G1",
+    "ItemDesc": "Techspray All Purpose Cleaner 1 Gallon",
+    "ExtendedDesc": "1 Gal Container, 99.8% pure IPA.",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "GAL",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "GAL",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "GAL",
+    "DefaultPurchasingUnit": "GAL",
+    "BaseUnit": "GAL",
+    "Suppliers": [
+      {
+        "SupplierId": 3834,
+        "Cost": 68.12,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "GAL",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "1939RD",
+    "ItemDesc": "Red Clip Holder for Gloves",
+    "ExtendedDesc": "Red from Glove Guard",
+    "Price1": 4.54,
+    "Price2": 4.18,
+    "Price3": 3.81,
+    "Price4": 0.0,
+    "Price5": 0.395,
+    "Price6": 0.3425,
+    "Price7": 0.28,
+    "Price8": 2.75,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "HAND",
+    "ClassId2": "GENPURP",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3828,
+        "Cost": 2.75,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "223-AN",
+    "ItemDesc": "25 Person First Aid Kit 109 Pcs Type III",
+    "ExtendedDesc": "Plastic Case, OSHA Compliant, Full Content List Available Upon Request",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "FIRSTAID",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 13113,
+        "Cost": 20.28,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "272495",
+    "ItemDesc": "28-400 GRN Smooth Thermoset Cap (only)",
+    "ExtendedDesc": "28-400 Green Smooth Thermoset Cap with F217 & PTFE Liner",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 3200.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 3200.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 4334,
+        "Cost": 896.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 3200.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "322338",
+    "ItemDesc": "Windex Glass, Trigger, 32oz",
+    "ExtendedDesc": "Windex® Glass & More Multi-Surface, Streak-Free Cleaner cleans multiple surfaces: chrome, laminate, stainless steel, tile, safety shields (tested against Plexiglas® MC and G-Grade acrylic sheet) and other surfaces",
+    "Price1": 5.75,
+    "Price2": 5.36,
+    "Price3": 4.98,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3036,
+    "Price7": 0.25,
+    "Price8": 3.7375,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "JANSAN",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 8.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3940,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3952,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 30.94,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3660,
+        "Cost": 29.9,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 8.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "334689",
+    "ItemDesc": "Deep Woods Insect Repellent V, 6oz",
+    "ExtendedDesc": "Formulated with 25% DEET—provides up to 8 hours of protection against mosquitoes, 6oz, 12/Case,",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "FIRSTAID",
+    "ClassId2": "SKINPROD",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 12.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 12.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3952,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 82.632,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 12.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "393 FC",
+    "ItemDesc": "True-RMS AC/DC 1000 VAC, 1500 VDC",
+    "ExtendedDesc": "Measure safely with CAT III 1500 V rated clamp meter, Thin jaw for access to cables in crowded combiner boxes, Sturdy IP54 rated for outdoor use and solar installation, Work efficiently with dc power measurement, audio polarity and visual continuity",
+    "Price1": 725.2,
+    "Price2": 720.2,
+    "Price3": 715.2,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 18135,
+        "Cost": 746.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "3M7093B",
+    "ItemDesc": "RESPIRATOR FILTER P100 BAYONET 144 ea/cs",
+    "ExtendedDesc": "3M P100 Particulate Filter, Oil & Non-Oil Based Particles. For use w/ 5000 Series Respirators, 6000 & 7000 Series w/ 502 Adapter. BULK CASE, NO INNER CTN! 2 EA/BAG, 144 EA/CS = 72PR/CS",
+    "Price1": 10.27,
+    "Price2": 9.59,
+    "Price3": 8.9,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3036,
+    "Price7": 0.25,
+    "Price8": 6.6807,
+    "Price9": 9012023.0,
+    "Price10": 1.0,
+    "ClassId1": "BREATHE",
+    "ClassId2": "RESPIRAT",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "PR",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "PR",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "PR",
+    "DefaultPurchasingUnit": "PR",
+    "BaseUnit": "PR",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3896,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3564,
+        "Cost": 6.93,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "BDL",
+        "UnitSize": 6.0
+      },
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 72.0
+      },
+      {
+        "UnitOfMeasure": "PKG",
+        "UnitSize": 2.0
+      },
+      {
+        "UnitOfMeasure": "PR",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "3M8511",
+    "ItemDesc": "3M Particulate Respirator 8511, N95",
+    "ExtendedDesc": "3M, COOL FLOW EXHALATION VALVE, FILTERS 95% PARTICULATE NON-OIL, NOSE CLIP, NIOSH APPROVED, 10EA/BX 8BX/CS",
+    "Price1": 27.81,
+    "Price2": 25.95,
+    "Price3": 24.1,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3036,
+    "Price7": 0.25,
+    "Price8": 18.078,
+    "Price9": 8012024.0,
+    "Price10": 1.0,
+    "ClassId1": "BREATHE",
+    "ClassId2": "RESPIRAT",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "BOX",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "BOX",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "BOX",
+    "DefaultPurchasingUnit": "BOX",
+    "BaseUnit": "BOX",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3896,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4283,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3564,
+        "Cost": 18.81,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "BOX",
+        "UnitSize": 1.0
+      },
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 8.0
+      },
+      {
+        "UnitOfMeasure": "PK",
+        "UnitSize": 4.0
+      }
+    ]
+  },
+  {
+    "ItemId": "50-0006-01",
+    "ItemDesc": "AWM Solar LOTO disconnect tool",
+    "ExtendedDesc": "",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 15.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 19554,
+        "Cost": 20.7,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "61011",
+    "ItemDesc": "14OZ BEE BOPPER WASP & HORNET, AEROSOL",
+    "ExtendedDesc": "12/CASE\r\nUPC 91131 00011",
+    "Price1": 84.0,
+    "Price2": 73.92,
+    "Price3": 66.0,
+    "Price4": 0.0,
+    "Price5": 5.4,
+    "Price6": 4.5,
+    "Price7": 3.6,
+    "Price8": 46.2,
+    "Price9": 12144288.0,
+    "Price10": 12.0,
+    "ClassId1": "FACIDENT",
+    "ClassId2": "BUGWASP",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 12.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 12.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3618,
+        "Cost": 46.2,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 12.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "61101",
+    "ItemDesc": "Halt Dog Repellent 1.5oz 0.35% Cap 12/CS",
+    "ExtendedDesc": "Aerosol, contains 0.35% capsaicin, 12EA/CS",
+    "Price1": 4.72,
+    "Price2": 4.16,
+    "Price3": 3.71,
+    "Price4": 0.0,
+    "Price5": 0.45,
+    "Price6": 0.375,
+    "Price7": 0.3,
+    "Price8": 2.6,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "FACIDENT",
+    "ClassId2": "BUGWASP",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3618,
+        "Cost": 2.6,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 12.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "61106",
+    "ItemDesc": "Halt II Dog Repellent 1.5oz 1% Cap 12/CS",
+    "ExtendedDesc": "Aerosol, contains 1% capsaicin, 12EA/CS",
+    "Price1": 73.08,
+    "Price2": 64.32,
+    "Price3": 57.36,
+    "Price4": 0.0,
+    "Price5": 5.4,
+    "Price6": 4.5,
+    "Price7": 3.6,
+    "Price8": 40.2,
+    "Price9": 12144288.0,
+    "Price10": 12.0,
+    "ClassId1": "FACIDENT",
+    "ClassId2": "BUGWASP",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 12.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3618,
+        "Cost": 3.35,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 12.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "61605",
+    "ItemDesc": "INSECT REPELLENT BUG BARRIER 12OZ DEET",
+    "ExtendedDesc": "23.75% DEET, 12OZ AEROSOL, REPEL MOSQUITOES, CHIGGERS, FLEAS, TICKS, FLIES, AND MORE, 12CNS/CS\r\nUPC 91131 00005",
+    "Price1": 120.84,
+    "Price2": 106.32,
+    "Price3": 94.92,
+    "Price4": 0.0,
+    "Price5": 5.4,
+    "Price6": 4.5,
+    "Price7": 3.6,
+    "Price8": 66.48,
+    "Price9": 12144288.0,
+    "Price10": 12.0,
+    "ClassId1": "FACIDENT",
+    "ClassId2": "BUGWASP",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 12.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3618,
+        "Cost": 5.54,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 12.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "6453",
+    "ItemDesc": "PURELL HEALTHCARE ADVANCED HAND SANITIZE",
+    "ExtendedDesc": "PURELL HEALTHCARE ADVANCED HAND SANITIZER FOAM",
+    "Price1": 55.1,
+    "Price2": 51.43,
+    "Price3": 47.75,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3036,
+    "Price7": 0.25,
+    "Price8": 35.817,
+    "Price9": 9012023.0,
+    "Price10": 1.0,
+    "ClassId1": "HEAD",
+    "ClassId2": "HARDHAT",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 4025,
+        "Cost": 23.92,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 39.051,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3660,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 2.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "6D440265",
+    "ItemDesc": "8% W/ A BALANCE OF NITROGEN",
+    "ExtendedDesc": "103L",
+    "Price1": 96.92,
+    "Price2": 92.21,
+    "Price3": 87.5,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3168,
+    "Price7": 0.28,
+    "Price8": 63.0,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "GAS",
+    "ClassId2": "CALGAS",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3682,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3817,
+        "Cost": 66.5,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "7-C30-99L-00",
+    "ItemDesc": "Dry Wiper Polyester Cellulose 9x9 Bag",
+    "ExtendedDesc": "Hydroentangled, 55% cellulose / 45% polyester, Size: 9\"x9\", Super absorbent, Extremely low particle generation, No chemical binders. 300 Wipes/Bag, 12 Bags 3,600 Wipes/Case.",
+    "Price1": 348.29,
+    "Price2": 323.41,
+    "Price3": 301.85,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3,
+    "Price7": 0.25,
+    "Price8": 226.39,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "LABSUP",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3967,
+        "Cost": 151.79,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "8150-12",
+    "ItemDesc": "GOJO Hand Medic Lotion 5oz Tube",
+    "ExtendedDesc": "Fragrance-free skin conditioner, specially formulated for industrial environments. Helps prevent dry, cracked skin by maintaining skin's moisture level, dermatologist tested, Absorbs quickly with no greasy after-feel",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 12.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 4066,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4283,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3660,
+        "Cost": 80.26,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 12.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "81620",
+    "ItemDesc": "SYRINGE 1010TLL    10.0ML",
+    "ExtendedDesc": "",
+    "Price1": 135.86,
+    "Price2": 130.07,
+    "Price3": 124.26,
+    "Price4": 0.0,
+    "Price5": 0.25,
+    "Price6": 0.2166,
+    "Price7": 0.18,
+    "Price8": 101.9,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "LABSUP",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3595,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4305,
+        "Cost": 110.93,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "8574GM",
+    "ItemDesc": "WIPE SATURATED SIGHT SAVER 32% IPA AS AF",
+    "ExtendedDesc": "BAUSCH & LOMB, 5X8 INDIVIDUALLY WRAPPED, ANTI-STATIC ANTI-FOG, 100/BX 10BX/CS",
+    "Price1": 13.95,
+    "Price2": 13.32,
+    "Price3": 12.68,
+    "Price4": 0.0,
+    "Price5": 0.3,
+    "Price6": 0.2666,
+    "Price7": 0.23,
+    "Price8": 9.77,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "EYE",
+    "ClassId2": "EYEPROT",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "BOX",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "BOX",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "BOX",
+    "DefaultPurchasingUnit": "BOX",
+    "BaseUnit": "BOX",
+    "Suppliers": [
+      {
+        "SupplierId": 4066,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4189,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 13902,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4283,
+        "Cost": 9.48,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 14150,
+        "Cost": 9.441,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3581,
+        "Cost": 8.65,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "BOX",
+        "UnitSize": 1.0
+      },
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 10.0
+      }
+    ]
+  },
+  {
+    "ItemId": "89420",
+    "ItemDesc": "enMotion Hardwound 8\", 700 ft., White",
+    "ExtendedDesc": "Paper Towel Roll, enMotion(R), Hardwound, White, 700 ft Roll Length, PK 6",
+    "Price1": 121.38,
+    "Price2": 113.29,
+    "Price3": 105.2,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3036,
+    "Price7": 0.25,
+    "Price8": 78.9,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "JANSAN",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 3834,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3660,
+        "Cost": 86.27,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "90292",
+    "ItemDesc": "PhysiciansCare 7.25\" Titanium Bonded",
+    "ExtendedDesc": "Bandage Shears",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 13113,
+        "Cost": 5.43,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "9412",
+    "ItemDesc": "12 Piece Metric Ratcheting Wrench Set",
+    "ExtendedDesc": "Combination Ratcheting Wrench Set. Includes: 8mm 9mm 10mm 11mm 12mm 13mm 14mm 15mm 16mm 17mm 18mm 19mm; Alloy Steel Construction.",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "SET",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "SET",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "SET",
+    "DefaultPurchasingUnit": "SET",
+    "BaseUnit": "SET",
+    "Suppliers": [
+      {
+        "SupplierId": 4066,
+        "Cost": 105.913,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "SET",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "A102",
+    "ItemDesc": "RED GAUGE OIL 4oz.",
+    "ExtendedDesc": "",
+    "Price1": 20.0,
+    "Price2": 17.14,
+    "Price3": 14.28,
+    "Price4": 0.0,
+    "Price5": 0.5,
+    "Price6": 0.4167,
+    "Price7": 0.3,
+    "Price8": 10.0,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "MISC",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3751,
+        "Cost": 10.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "ACL8",
+    "ItemDesc": "LANYARD FOR AK SAFETY CLIP SYN UNIV 25/P",
+    "ExtendedDesc": "LANYARD FOR AIR KING SAFETY CLIPS, UNIVERSAL SIZE FOR ALL COUPLING SIZES, 25EA/PK",
+    "Price1": 13.45,
+    "Price2": 11.21,
+    "Price3": 10.45,
+    "Price4": 0.0,
+    "Price5": 0.4166,
+    "Price6": 0.3,
+    "Price7": 0.249,
+    "Price8": 7.85,
+    "Price9": 11012023.0,
+    "Price10": 1.0,
+    "ClassId1": "FALL",
+    "ClassId2": "HARNESS",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "PK",
+    "SalesPricingUnitSize": 25.0,
+    "PurchasePricingUnit": "PK",
+    "PurchasePricingUnitSize": 25.0,
+    "DefaultSellingUnit": "PK",
+    "DefaultPurchasingUnit": "PK",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      },
+      {
+        "UnitOfMeasure": "PK",
+        "UnitSize": 25.0
+      }
+    ]
+  },
+  {
+    "ItemId": "AS9115",
+    "ItemDesc": "Aero 2-Stage Pump",
+    "ExtendedDesc": "",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "ABATE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4174,
+        "Cost": 490.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "BB75-C",
+    "ItemDesc": "Replacement coalescing filter - 75 cfm,",
+    "ExtendedDesc": "Stage 2",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 1.0,
+    "ClassId1": "GAS",
+    "ClassId2": "INSTRUM",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3582,
+        "Cost": 75.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "BB75-D",
+    "ItemDesc": "Replacement charcoal filter - 75 cfm,",
+    "ExtendedDesc": "Stage 3",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 1.0,
+    "ClassId1": "GAS",
+    "ClassId2": "INSTRUM",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3582,
+        "Cost": 93.75,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "BBG-00",
+    "ItemDesc": "Replacement Calibration gas, zero air, 1",
+    "ExtendedDesc": "",
+    "Price1": 57.69,
+    "Price2": 54.88,
+    "Price3": 52.08,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3168,
+    "Price7": 0.28,
+    "Price8": 37.5,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "GAS",
+    "ClassId2": "CALGAS",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3582,
+        "Cost": 37.5,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "BG970",
+    "ItemDesc": "DUFFLE BAG SPORT 21 x11 x 9 ROY BLUE ZIP",
+    "ExtendedDesc": "STRAPS, 24/CS",
+    "Price1": 29.3,
+    "Price2": 25.11,
+    "Price3": 20.92,
+    "Price4": 0.0,
+    "Price5": 0.5,
+    "Price6": 0.4167,
+    "Price7": 0.3,
+    "Price8": 14.65,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "MISC",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3800,
+        "Cost": 16.35,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 24.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "BT-30",
+    "ItemDesc": "Versaflo Length Adjusting Breating Tube",
+    "ExtendedDesc": "3M™ Versaflo™ Length Adjusting Breathing Tube BT-30    1/case = 1/bag",
+    "Price1": 91.74,
+    "Price2": 87.28,
+    "Price3": 82.82,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3168,
+    "Price7": 0.28,
+    "Price8": 59.634,
+    "Price9": 9012023.0,
+    "Price10": 1.0,
+    "ClassId1": "BREATHE",
+    "ClassId2": "AIRFILT",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3896,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3564,
+        "Cost": 67.44,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "CIA388XFT-7",
+    "ItemDesc": "Hi Vis and Cut Resist and Impact Glove",
+    "ExtendedDesc": "SM",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "DOZ",
+    "SalesPricingUnitSize": 12.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "DOZ",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 12820,
+        "Cost": 9.3,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "DOZ",
+        "UnitSize": 12.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "CO-91NS",
+    "ItemDesc": "CO SENSOR DETECTOR MONITOR",
+    "ExtendedDesc": "",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "MISC",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3582,
+        "Cost": 221.25,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "CR377",
+    "ItemDesc": "8in Razor Blades 10ea/Pkg; 25 pkg/Case",
+    "ExtendedDesc": "",
+    "Price1": 24.94,
+    "Price2": 21.38,
+    "Price3": 17.82,
+    "Price4": 0.0,
+    "Price5": 0.5,
+    "Price6": 0.4167,
+    "Price7": 0.3,
+    "Price8": 12.474,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "ABATE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "PKG",
+    "SalesPricingUnitSize": 10.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "PKG",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3617,
+        "Cost": 12.474,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 250.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      },
+      {
+        "UnitOfMeasure": "PKG",
+        "UnitSize": 10.0
+      }
+    ]
+  },
+  {
+    "ItemId": "DWMRKII25",
+    "ItemDesc": "Mark II Manometer",
+    "ExtendedDesc": "",
+    "Price1": 84.61,
+    "Price2": 80.5,
+    "Price3": 76.38,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3168,
+    "Price7": 0.28,
+    "Price8": 55.0,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "ABATE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3751,
+        "Cost": 56.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "ECUZ930FI",
+    "ItemDesc": "UZ 930 HEPA Filter",
+    "ExtendedDesc": "",
+    "Price1": 130.51,
+    "Price2": 110.4,
+    "Price3": 90.3,
+    "Price4": 0.0,
+    "Price5": 0.456,
+    "Price6": 0.3569,
+    "Price7": 0.2138,
+    "Price8": 71.0,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "ABATE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 4043,
+        "Cost": 112.455,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4174,
+        "Cost": 70.5,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "ER15281",
+    "ItemDesc": "SAFETY GLASSES BOAS CLEAR",
+    "ExtendedDesc": "GRAY W/ CLEAR LENSES. ECONOMY, ANSI Z87.1+, 12/BX",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3774,
+        "Cost": 1.99,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "BOX",
+        "UnitSize": 12.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "ER19945",
+    "ItemDesc": "Insert-Omega Ii,Ratchet",
+    "ExtendedDesc": "MUST ORDER IN DOZEN QUANTITIES",
+    "Price1": 92.28,
+    "Price2": 84.6,
+    "Price3": 77.04,
+    "Price4": 0.0,
+    "Price5": 4.2,
+    "Price6": 3.5004,
+    "Price7": 2.664,
+    "Price8": 60.0,
+    "Price9": 75384276.0,
+    "Price10": 12.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "DOZ",
+    "SalesPricingUnitSize": 12.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "DOZ",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3774,
+        "Cost": 6.66,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "DOZ",
+        "UnitSize": 12.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "EVGPLN451",
+    "ItemDesc": "EVEREADY LED Floating Lantern",
+    "ExtendedDesc": "4 per Case",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 14150,
+        "Cost": 6.89,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "F300BP",
+    "ItemDesc": "HEADGEAR SUSPENSION W/3IN CROWN GREY",
+    "ExtendedDesc": "HONEYWELL / FIBRE-METAL, HEAT RESISTANT NORYL 3IN CROWN, GREY, REMOVABLE 3-ER SUSPENSION, FACESHIELD NOT INCLUDED, ANSI Z87.1",
+    "Price1": 582.25,
+    "Price2": 534.25,
+    "Price3": 486.5,
+    "Price4": 0.0,
+    "Price5": 8.75,
+    "Price6": 7.2925,
+    "Price7": 5.55,
+    "Price8": 378.575,
+    "Price9": 225300575.0,
+    "Price10": 25.0,
+    "ClassId1": "HEAD",
+    "ClassId2": "HEADOTH",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "BOX",
+    "SalesPricingUnitSize": 25.0,
+    "PurchasePricingUnit": "BOX",
+    "PurchasePricingUnitSize": 25.0,
+    "DefaultSellingUnit": "BOX",
+    "DefaultPurchasingUnit": "BOX",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 394.575,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4283,
+        "Cost": 9864.375,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4047,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "BOX",
+        "UnitSize": 25.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "HDH108",
+    "ItemDesc": "Safety Glasses Dispenser w/ Lid Clear",
+    "ExtendedDesc": "3.5\"HX9\"WX6.75\"D, clear 1/8\" plastic, hinged lid, 2\"HX7.5\"W \"SAFETY GLASSES\" label, wall-mounted or free standing",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "EYE",
+    "ClassId2": "EYEPROT",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3983,
+        "Cost": 43.07,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "HTT103",
+    "ItemDesc": "LOCK-STYLE NYLON TIES, BLACK, 50/PACK",
+    "ExtendedDesc": "STRONG 50# PULL",
+    "Price1": 16.18,
+    "Price2": 12.36,
+    "Price3": 11.23,
+    "Price4": 0.0,
+    "Price5": 0.5,
+    "Price6": 0.3455,
+    "Price7": 0.28,
+    "Price8": 8.09,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "FACIDENT",
+    "ClassId2": "FACSAFE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "PK",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "PK",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "PK",
+    "DefaultPurchasingUnit": "PK",
+    "BaseUnit": "PK",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3983,
+        "Cost": 7.91,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "PK",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "IC253BWH5X0025CS",
+    "ItemDesc": "Tyvek IsoClean Clean/Sterile Coverall 5X",
+    "ExtendedDesc": "White. Zipper Front, Elastic Wrist & Ankle. size 5X. 25/case",
+    "Price1": 285.81,
+    "Price2": 266.77,
+    "Price3": 247.7,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3036,
+    "Price7": 0.25,
+    "Price8": 185.78,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 3979,
+        "Cost": 211.73,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "IC264SWH2X00300B",
+    "ItemDesc": "Dupont Tyvek Frock White Zipper Close 2X",
+    "ExtendedDesc": "",
+    "Price1": 187.27,
+    "Price2": 174.79,
+    "Price3": 162.3,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3036,
+    "Price7": 0.25,
+    "Price8": 121.73,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "CLOTHES",
+    "ClassId2": "FRCLOTH",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3979,
+        "Cost": 138.74,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "ICO-2104",
+    "ItemDesc": "10Panel InstaCube Saliva Drug Test,25/CS",
+    "ExtendedDesc": "25/case",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 1.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 17955,
+        "Cost": 199.95,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "KCC620",
+    "ItemDesc": "STOPOUT Look' N Stop Compact Group Lock",
+    "ExtendedDesc": "GROUP LOCK BOX",
+    "Price1": 30.0,
+    "Price2": 27.85,
+    "Price3": 25.71,
+    "Price4": 0.0,
+    "Price5": 0.4,
+    "Price6": 0.3538,
+    "Price7": 0.3,
+    "Price8": 18.0,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3983,
+        "Cost": 18.36,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "KDD161",
+    "ItemDesc": "Circuit Breaker Lockout, Metal jaws for",
+    "ExtendedDesc": "Double Pole",
+    "Price1": 20.4,
+    "Price2": 18.7,
+    "Price3": 17.0,
+    "Price4": 0.0,
+    "Price5": 0.4,
+    "Price6": 0.3455,
+    "Price7": 0.28,
+    "Price8": 12.24,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "FACIDENT",
+    "ClassId2": "LOTOD",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3983,
+        "Cost": 12.49,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "KDD170",
+    "ItemDesc": "STOPOUT Low Profile Circuit Breaker Lock",
+    "ExtendedDesc": "uses a combination of setscrew and metal jaw for secure grip",
+    "Price1": 7.75,
+    "Price2": 7.19,
+    "Price3": 6.64,
+    "Price4": 0.0,
+    "Price5": 0.4,
+    "Price6": 0.3538,
+    "Price7": 0.3,
+    "Price8": 4.65,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "FACIDENT",
+    "ClassId2": "LOTOD",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3983,
+        "Cost": 4.79,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "KDD471",
+    "ItemDesc": "LOTO DEVICE GATE VALVE 2.5-5IN RED",
+    "ExtendedDesc": "RED, CLAM SHELL STYLE, 1 LOCK HOLE, INCLUDES LOTO LABEL, STOPOUT®",
+    "Price1": 20.5,
+    "Price2": 19.03,
+    "Price3": 17.57,
+    "Price4": 0.0,
+    "Price5": 0.4,
+    "Price6": 0.3538,
+    "Price7": 0.3,
+    "Price8": 12.3,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "FACIDENT",
+    "ClassId2": "LOTOD",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3983,
+        "Cost": 12.55,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "KSK234",
+    "ItemDesc": "STOPOUT® Standard Lockout Kit",
+    "ExtendedDesc": "Red lockout box, 1\" scissor hasp, 1.5\" Aluma-tag hasp, 3/4\" steel padlocks keys different, padlock labels, HS-laminated lockout tags, circuit breaker lockouts and tab tags, multi-plug lockout",
+    "Price1": 266.2,
+    "Price2": 244.03,
+    "Price3": 221.83,
+    "Price4": 0.0,
+    "Price5": 0.4,
+    "Price6": 0.3455,
+    "Price7": 0.28,
+    "Price8": 159.72,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "FACIDENT",
+    "ClassId2": "LOTOD",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3983,
+        "Cost": 164.52,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "L-10-50R-O-C",
+    "ItemDesc": ".3\" Wx11.89\" L Black Cable Tie 100/pack",
+    "ExtendedDesc": "Catamount by ABB L-10-50R-0-C Releasable Cable Tie,Black Polyamide,UV Resistant,11.89\"L,Tensile 50lbs",
+    "Price1": 89.62,
+    "Price2": 76.82,
+    "Price3": 64.01,
+    "Price4": 0.0,
+    "Price5": 0.5,
+    "Price6": 0.4167,
+    "Price7": 0.3,
+    "Price8": 44.813,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "FACIDENT",
+    "ClassId2": "FACSAFE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "PK",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "PK",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "PK",
+    "DefaultPurchasingUnit": "PK",
+    "BaseUnit": "PK",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3589,
+        "Cost": 62.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4310,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "PK",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "L-24-120-9-L",
+    "ItemDesc": ".30inWx24inL Natural Cable Tie, 50 Ea/Pk",
+    "ExtendedDesc": "",
+    "Price1": 43.02,
+    "Price2": 36.87,
+    "Price3": 30.72,
+    "Price4": 0.0,
+    "Price5": 0.5,
+    "Price6": 0.4167,
+    "Price7": 0.3,
+    "Price8": 21.51,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "FACIDENT",
+    "ClassId2": "FACSAFE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "PK",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "PK",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "PK",
+    "DefaultPurchasingUnit": "PK",
+    "BaseUnit": "PK",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3589,
+        "Cost": 20.45,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3595,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4310,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "PK",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "L-8-40-0-C",
+    "ItemDesc": "Cable Ties Black Nylon 8.5 x .14 100/pkg",
+    "ExtendedDesc": "Ty-Fast Cable Ties Intermediate Series 30",
+    "Price1": 24.31,
+    "Price2": 20.84,
+    "Price3": 17.36,
+    "Price4": 0.0,
+    "Price5": 0.5,
+    "Price6": 0.4167,
+    "Price7": 0.3,
+    "Price8": 12.158,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "FACIDENT",
+    "ClassId2": "FACSAFE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "PK",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "PK",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "PK",
+    "DefaultPurchasingUnit": "PK",
+    "BaseUnit": "PK",
+    "Suppliers": [
+      {
+        "SupplierId": 4310,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3589,
+        "Cost": 13.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "PK",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "LCHL517",
+    "ItemDesc": "Safety Label: Gasoline",
+    "ExtendedDesc": "2\" x 5\" Adesive Dura-Vinyl                                                        Mark your gasoline containers with a bright red label for legibility and safety.",
+    "Price1": 4.41,
+    "Price2": 4.04,
+    "Price3": 3.68,
+    "Price4": 0.0,
+    "Price5": 0.4,
+    "Price6": 0.3455,
+    "Price7": 0.28,
+    "Price8": 2.65,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "FACIDENT",
+    "ClassId2": "SIGNMACH",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3983,
+        "Cost": 2.78,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "MA4166",
+    "ItemDesc": "9104 Razorback Blk 4.5\"x10\"x1\",  675/ETC",
+    "ExtendedDesc": "Heavy build up stripping pad, 4ETC (675/ETC), 20 per Case",
+    "Price1": 43.09,
+    "Price2": 35.93,
+    "Price3": 28.77,
+    "Price4": 0.0,
+    "Price5": 0.4489,
+    "Price6": 0.339,
+    "Price7": 0.1745,
+    "Price8": 23.75,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "ABATE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 3784,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3660,
+        "Cost": 23.75,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "MESKRIM2B",
+    "ItemDesc": "2ply, 15 X 27, White Skrim Towel 102/SKD",
+    "ExtendedDesc": "102 CASE/SKID",
+    "Price1": 30.57,
+    "Price2": 27.57,
+    "Price3": 24.57,
+    "Price4": 0.0,
+    "Price5": 0.3584,
+    "Price6": 0.2886,
+    "Price7": 0.2016,
+    "Price8": 19.62,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "ABATE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4008,
+        "Cost": 20.93,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      },
+      {
+        "UnitOfMeasure": "PLT",
+        "UnitSize": 102.0
+      }
+    ]
+  },
+  {
+    "ItemId": "NMPT53",
+    "ItemDesc": "Danger Lead Barrier Tape 3in X 1000ft",
+    "ExtendedDesc": "",
+    "Price1": 22.83,
+    "Price2": 21.72,
+    "Price3": 20.61,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3168,
+    "Price7": 0.28,
+    "Price8": 9.92,
+    "Price9": 4012024.0,
+    "Price10": 1.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "ABATE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "RL",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "RL",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "RL",
+    "DefaultPurchasingUnit": "RL",
+    "BaseUnit": "RL",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3940,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3852,
+        "Cost": 9.29,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 12.0
+      },
+      {
+        "UnitOfMeasure": "RL",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "P1301",
+    "ItemDesc": "EARPLUG SKULLSCREWS 30NRR FLANGE FOAM",
+    "ExtendedDesc": "3M, VINYL CORD, REUSABLE, SILVER PUSH-TO-FIT FOAM, DIELECTRIC, 120PR/BX 4BX/CS",
+    "Price1": 112.38,
+    "Price2": 103.13,
+    "Price3": 93.89,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.2917,
+    "Price7": 0.222,
+    "Price8": 73.05,
+    "Price9": 9012023.0,
+    "Price10": 1.0,
+    "ClassId1": "HEARING",
+    "ClassId2": "PLUGS",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "BOX",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "BOX",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "BOX",
+    "DefaultPurchasingUnit": "BOX",
+    "BaseUnit": "BOX",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4283,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3564,
+        "Cost": 81.47,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "BOX",
+        "UnitSize": 1.0
+      },
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 4.0
+      }
+    ]
+  },
+  {
+    "ItemId": "PC1300",
+    "ItemDesc": "BATTERY D ALKALINE 1.5V DURACELL",
+    "ExtendedDesc": "INDUSTRIAL PROCELL 14000mAh, 12EA/BOX",
+    "Price1": 26.76,
+    "Price2": 24.84,
+    "Price3": 22.92,
+    "Price4": 0.0,
+    "Price5": 4.8,
+    "Price6": 4.2456,
+    "Price7": 3.6,
+    "Price8": 16.08,
+    "Price9": 132144276.0,
+    "Price10": 12.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "MISC",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "BOX",
+    "SalesPricingUnitSize": 12.0,
+    "PurchasePricingUnit": "BOX",
+    "PurchasePricingUnitSize": 12.0,
+    "DefaultSellingUnit": "BOX",
+    "DefaultPurchasingUnit": "BOX",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 17.688,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3660,
+        "Cost": 10.3896,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3950,
+        "Cost": 13.68,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 12618,
+        "Cost": 9.48,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "BOX",
+        "UnitSize": 12.0
+      },
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 72.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "PC1500",
+    "ItemDesc": "BATTERY AA ALKALINE 1.5V DURACELL",
+    "ExtendedDesc": "INDUSTRIAL PROCELL 2450mAh, 24EA/BOX 144EA/CASE",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "MISC",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "NON_WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3950,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 12618,
+        "Cost": 0.32,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "BOX",
+        "UnitSize": 24.0
+      },
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 144.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "PC1604",
+    "ItemDesc": "BATTERY 9V ALKALINE 9V DURACELL",
+    "ExtendedDesc": "INDUSTRIAL PROCELL 565mAh, 12EA/BOX",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "NOQUEST",
+    "ClassId2": "MISC",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "NON_WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3950,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 12618,
+        "Cost": 1.25,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "BOX",
+        "UnitSize": 12.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "PRV240",
+    "ItemDesc": "Fluke Proving Unit 240 V Output",
+    "ExtendedDesc": "",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3595,
+        "Cost": 174.4,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "QE-RPLNBB",
+    "ItemDesc": "20 oz RP Pro Wet Mop 6 Ply white 16 lbs",
+    "ExtendedDesc": "Rayon/Polyester Blend of low melt 6 ply  yarn, blue narrow vinyl coated mesh head band and blue fan  16 lbs per case    12 mops per case",
+    "Price1": 93.23,
+    "Price2": 87.01,
+    "Price3": 80.8,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3036,
+    "Price7": 0.25,
+    "Price8": 60.6,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "JANSAN",
+    "ClassId2": "JANSAN",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 3855,
+        "Cost": 60.6,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "QPA-FS1",
+    "ItemDesc": "Quest Disposable Face Shield",
+    "ExtendedDesc": "Limited Use Face Shields, 200 each/Case (CTN) and 42 cases per Pallet.",
+    "Price1": 2.88,
+    "Price2": 2.66,
+    "Price3": 2.4,
+    "Price4": 0.0,
+    "Price5": 0.4,
+    "Price6": 0.35,
+    "Price7": 0.28,
+    "Price8": 1.73,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 14830,
+        "Cost": 0.95,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 200.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      },
+      {
+        "UnitOfMeasure": "PK",
+        "UnitSize": 10.0
+      },
+      {
+        "UnitOfMeasure": "PLT",
+        "UnitSize": 8400.0
+      }
+    ]
+  },
+  {
+    "ItemId": "QU20005",
+    "ItemDesc": "ATTACK 2000 MASTIC REMOVER",
+    "ExtendedDesc": "CARB COMPLIANT FORMULA, 36/skid, 3 layers of 12 5-gal. pails",
+    "Price1": 103.0,
+    "Price2": 103.0,
+    "Price3": 103.0,
+    "Price4": 82.4,
+    "Price5": 0.5255,
+    "Price6": 0.475,
+    "Price7": 0.425,
+    "Price8": 58.86,
+    "Price9": 11012023.0,
+    "Price10": 1.0,
+    "ClassId1": "QUEST",
+    "ClassId2": "ABATE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "5PL",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "5PL",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "5PL",
+    "DefaultPurchasingUnit": "5PL",
+    "BaseUnit": "5PL",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4245,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4239,
+        "Cost": 69.76,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "5PL",
+        "UnitSize": 1.0
+      },
+      {
+        "UnitOfMeasure": "PLT",
+        "UnitSize": 36.0
+      }
+    ]
+  },
+  {
+    "ItemId": "QU200055",
+    "ItemDesc": "ATTACK 2000 MASTIC REMOVER Drum",
+    "ExtendedDesc": "CARB COMPLIANT FORMULA",
+    "Price1": 1030.0,
+    "Price2": 1030.0,
+    "Price3": 1030.0,
+    "Price4": 820.0,
+    "Price5": 0.52,
+    "Price6": 0.47,
+    "Price7": 0.42,
+    "Price8": 570.92,
+    "Price9": 11012023.0,
+    "Price10": 1.0,
+    "ClassId1": "QUEST",
+    "ClassId2": "ABATE",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "DRM",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "DRM",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "DRM",
+    "DefaultPurchasingUnit": "DRM",
+    "BaseUnit": "DRM",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4245,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4239,
+        "Cost": 688.08,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "DRM",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "S1201SGAF",
+    "ItemDesc": "1000Series SafetyGlasses; Clear,20 PR/CS",
+    "ExtendedDesc": "Green/Black, Clear, Scotchgard, 20 EA/Case",
+    "Price1": 237.42,
+    "Price2": 226.64,
+    "Price3": 215.84,
+    "Price4": 0.0,
+    "Price5": 0.3,
+    "Price6": 0.2667,
+    "Price7": 0.23,
+    "Price8": 166.2,
+    "Price9": 9012023.0,
+    "Price10": 1.0,
+    "ClassId1": "EYE",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 20.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 20.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 4066,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3564,
+        "Cost": 178.25,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 20.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "S39610C",
+    "ItemDesc": "Stealth Chem Goggle, Non-FR, Clear Lens",
+    "ExtendedDesc": "Teal/Gray, Uvestreme Anti-fog, impact resistant frame & lens, low-profile design, indirect venting, quick-adjust headband",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "EYE",
+    "ClassId2": "EYEPROT",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 4342,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4283,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 10.618,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4047,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3940,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 50.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "S8515",
+    "ItemDesc": "Bionic Facshield w/Hard Hat Adap AF Clr",
+    "ExtendedDesc": "",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "EYE",
+    "ClassId2": "FACESHLD",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4047,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4342,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 54.467,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "SC-NWPI-REG",
+    "ItemDesc": "Keystone White Shoe Covers LG",
+    "ExtendedDesc": "Keystone White Polypropylene Shoe Covers with PE Coating \r\n100 PR/CS\r\nISO Class 5 (Fed. Class 100), ISO Class 6 (Fed. Class 1,000), ISO Class 7 (Fed. Class 10,000)",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "FOOT",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 3939,
+        "Cost": 26.47,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "SK-BATT",
+    "ItemDesc": "Battery Acid Spill Kit",
+    "ExtendedDesc": "Includes: (10) 15x19 in Pads, (2) 3in x 4ft socks, (2) Disposable Bags, 1 lb Bag Granular, 2 lb Neutralizer Shaker, Face Shield, Neoprene Apron, One pair goggles, one pair nitrile gloves, Scoop and scraper.",
+    "Price1": 154.83,
+    "Price2": 143.77,
+    "Price3": 134.18,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3,
+    "Price7": 0.25,
+    "Price8": 100.64,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 4107,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 100.645,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "SR-H-MC",
+    "ItemDesc": "REPLACEMENT H2S SESOR FOR MAX XT II",
+    "ExtendedDesc": "",
+    "Price1": 221.2,
+    "Price2": 210.45,
+    "Price3": 199.69,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3168,
+    "Price7": 0.28,
+    "Price8": 143.78,
+    "Price9": 8012024.0,
+    "Price10": 1.0,
+    "ClassId1": "BREATHE",
+    "ClassId2": "AIRFILT",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 18132,
+        "Cost": 161.33,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3866,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4283,
+        "Cost": 140.84,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "SR-X2V",
+    "ItemDesc": "Replacement Sensor O2 for BW GasAlert",
+    "ExtendedDesc": "BW Honeywell multigas detectors replacement sensor, O2, Blue, Max XT II MicroClip XL MicroClip XT Quattro Micro 5",
+    "Price1": 221.2,
+    "Price2": 210.45,
+    "Price3": 199.69,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3168,
+    "Price7": 0.28,
+    "Price8": 143.78,
+    "Price9": 8012024.0,
+    "Price10": 1.0,
+    "ClassId1": "BREATHE",
+    "ClassId2": "AIRFILT",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 18132,
+        "Cost": 151.26,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3866,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "TR-614N",
+    "ItemDesc": "Versaflo  PAPR Assembly 1/Case",
+    "ExtendedDesc": "3M™ Versaflo ™ Powered Air Purifying Respirator PAPR Assembly TR-614N, Std Battery, BT-30 Breathing Tube, EC Belt, 1 EA/Case",
+    "Price1": 1436.95,
+    "Price2": 1367.12,
+    "Price3": 1297.25,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3168,
+    "Price7": 0.28,
+    "Price8": 934.02,
+    "Price9": 9012023.0,
+    "Price10": 1.0,
+    "ClassId1": "BREATHE",
+    "ClassId2": "RESPIRAT",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "CS",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3564,
+        "Cost": 1056.41,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "TR-6710N-40",
+    "ItemDesc": "3M VERSAFLO HIGH EFFICIENCY FILTER",
+    "ExtendedDesc": "3M HIGH EFFICIENCY FILTER FOR VERSAFLO FILTERS 40 PER CASE.",
+    "Price1": 2287.76,
+    "Price2": 2135.33,
+    "Price3": 1982.72,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3036,
+    "Price7": 0.25,
+    "Price8": 1487.044,
+    "Price9": 9012023.0,
+    "Price10": 1.0,
+    "ClassId1": "BREATHE",
+    "ClassId2": "VENTEQP",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 40.0,
+    "PurchasePricingUnit": "CS",
+    "PurchasePricingUnitSize": 40.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "CS",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3896,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3564,
+        "Cost": 1781.898,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 40.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "TY24M",
+    "ItemDesc": "Cable Tie, Natural Polyamide",
+    "ExtendedDesc": "Cable Tie, Natural Polyamide (Nylon 6.6), 5.5\"L, Tensile Strength 40lbs 1000/PK",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 1.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "PK",
+    "SalesPricingUnitSize": 1000.0,
+    "PurchasePricingUnit": "PK",
+    "PurchasePricingUnitSize": 1000.0,
+    "DefaultSellingUnit": "PK",
+    "DefaultPurchasingUnit": "PK",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3589,
+        "Cost": 112.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      },
+      {
+        "UnitOfMeasure": "PK",
+        "UnitSize": 1000.0
+      }
+    ]
+  },
+  {
+    "ItemId": "TY253M",
+    "ItemDesc": "Ty-Rap by ABB Cable Tie, 1000/PK",
+    "ExtendedDesc": "High Performance Cable Tie, Natural Nylon 6.6, 11.6\" L, Tensile Strength 50lb",
+    "Price1": 320.0,
+    "Price2": 274.3,
+    "Price3": 228.57,
+    "Price4": 0.0,
+    "Price5": 0.5,
+    "Price6": 0.4167,
+    "Price7": 0.3,
+    "Price8": 160.0,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "PK",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "PK",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "PK",
+    "DefaultPurchasingUnit": "PK",
+    "BaseUnit": "PK",
+    "Suppliers": [
+      {
+        "SupplierId": 3595,
+        "Cost": 160.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3589,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "PK",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "VTSP-0011",
+    "ItemDesc": "PUMP GAS MONITOR VENTIS MX4",
+    "ExtendedDesc": "",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 3581,
+        "Cost": 540.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "WB1",
+    "ItemDesc": "KING SAFETY CABLE HOSE-HOSE .5-1.25IN",
+    "ExtendedDesc": "WHIP CHECK SAFETY CABLE FOR AIR HOSE CONNECTIONS, GALVANIZED CARBON STEEL, 1/8IN CABLE SIZE, 20 1/4IN CABLE LENGTH, 1/2 - 1 1/4IN HOSE ID, MAXIMUM OPERATING PRESSURE 200PSI,",
+    "Price1": 12.76,
+    "Price2": 11.7,
+    "Price3": 10.63,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.2909,
+    "Price7": 0.22,
+    "Price8": 8.29,
+    "Price9": 11012023.0,
+    "Price10": 1.0,
+    "ClassId1": "FALL",
+    "ClassId2": "HARNESS",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4066,
+        "Cost": 8.299,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "WG241301",
+    "ItemDesc": "FOLDING HAND CART 275# CAP. LAYS FLAT",
+    "ExtendedDesc": "",
+    "Price1": 185.9,
+    "Price2": 159.35,
+    "Price3": 132.78,
+    "Price4": 0.0,
+    "Price5": 0.5,
+    "Price6": 0.4167,
+    "Price7": 0.3,
+    "Price8": 92.95,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "ERGO",
+    "ClassId2": "ERGOPROD",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3882,
+        "Cost": 92.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3595,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3825,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "WH8356",
+    "ItemDesc": "22in Foam Squeegee Head",
+    "ExtendedDesc": "",
+    "Price1": 14.27,
+    "Price2": 13.32,
+    "Price3": 12.37,
+    "Price4": 0.0,
+    "Price5": 0.35,
+    "Price6": 0.3036,
+    "Price7": 0.25,
+    "Price8": 9.28,
+    "Price9": 6282023.0,
+    "Price10": 1.0,
+    "ClassId1": "JANSAN",
+    "ClassId2": "JANSAN",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 1,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 14150,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 4189,
+        "Cost": 9.28,
+        "LeadTimeDays": 0
+      },
+      {
+        "SupplierId": 3952,
+        "Cost": 0.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "XPP-5410G",
+    "ItemDesc": "Nightstick IS Penlight 30 Lumens",
+    "ExtendedDesc": "Intrinsically Safe (all classes & divisions), 18 hour runtime, 2 AAA batteries (included), IP-67 dustproof/waterproof, built-in pocket/belt clip",
+    "Price1": 24.08,
+    "Price2": 22.36,
+    "Price3": 20.64,
+    "Price4": 0.0,
+    "Price5": 0.4,
+    "Price6": 0.3538,
+    "Price7": 0.3,
+    "Price8": 14.45,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "WEB",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 13491,
+        "Cost": 14.85,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "XPR-5554G",
+    "ItemDesc": "USB IS Dual-Light Headlamp 160 Lum",
+    "ExtendedDesc": "Rated at 160 lumens, this Magmate USB Rechargeable Dual-Light headlamp is cULus, ATEX Zone 0, and IECEx listed as Intrinsically Safe for hazardous environments.",
+    "Price1": 503.32,
+    "Price2": 467.32,
+    "Price3": 431.4,
+    "Price4": 0.0,
+    "Price5": 1.6,
+    "Price6": 1.4152,
+    "Price7": 1.2,
+    "Price8": 302.0,
+    "Price9": 4048096.0,
+    "Price10": 4.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "CS",
+    "SalesPricingUnitSize": 4.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "CS",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 13491,
+        "Cost": 87.5,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "CS",
+        "UnitSize": 4.0
+      },
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "XPR-5592GX",
+    "ItemDesc": "RECHARGEABLE LED SCENE LIGHT W/MAGNETIC",
+    "ExtendedDesc": "RECHARGEABLE LED SCENE LIGHT W/MAGNETIC BASE",
+    "Price1": 563.33,
+    "Price2": 523.05,
+    "Price3": 482.85,
+    "Price4": 0.0,
+    "Price5": 0.4,
+    "Price6": 0.3538,
+    "Price7": 0.3,
+    "Price8": 338.0,
+    "Price9": 1012024.0,
+    "Price10": 1.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 13491,
+        "Cost": 392.0,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  },
+  {
+    "ItemId": "Y604016",
+    "ItemDesc": "8 in Crimper 1/16 in capacity",
+    "ExtendedDesc": "Uninsulated. For crimping electrical wire and cable.",
+    "Price1": 0.0,
+    "Price2": 0.0,
+    "Price3": 0.0,
+    "Price4": 0.0,
+    "Price5": 0.0,
+    "Price6": 0.0,
+    "Price7": 0.0,
+    "Price8": 0.0,
+    "Price9": 0.0,
+    "Price10": 0.0,
+    "ClassId1": "",
+    "ClassId2": "",
+    "ClassId3": "PRICESKU",
+    "ClassId4": "UNILOG",
+    "ClassId5": "",
+    "SalesPricingUnit": "EA",
+    "SalesPricingUnitSize": 1.0,
+    "PurchasePricingUnit": "EA",
+    "PurchasePricingUnitSize": 1.0,
+    "DefaultSellingUnit": "EA",
+    "DefaultPurchasingUnit": "EA",
+    "BaseUnit": "EA",
+    "Suppliers": [
+      {
+        "SupplierId": 14150,
+        "Cost": 109.99,
+        "LeadTimeDays": 0
+      }
+    ],
+    "UnitsOfMeasure": [
+      {
+        "UnitOfMeasure": "EA",
+        "UnitSize": 1.0
+      }
+    ]
+  }
+]

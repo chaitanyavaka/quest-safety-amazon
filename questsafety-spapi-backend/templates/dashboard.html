@@ -1,0 +1,170 @@
+﻿
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>QuestSafety Dashboard</title>
+    <link rel="stylesheet" href="/static/styles.css?v=20260622-premium-ui1">
+  </head>
+  <body class="discovery-app">
+    <aside class="app-rail" aria-label="Workspace navigation">
+      <a class="rail-logo" href="/pipeline" aria-label="Pipeline">Q</a>
+      <a class="rail-icon" href="/pipeline" title="Pipeline" aria-label="Pipeline"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"></circle><path d="M12 3v4M12 17v4M3 12h4M17 12h4"></path></svg></a>
+      <a class="rail-icon has-dot" href="/review" title="Review" aria-label="Review"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 13l4 4L19 6"></path></svg></a>
+      <a class="rail-icon is-active" href="/dashboard" title="Dashboard" aria-label="Dashboard"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 7h12M6 12h12M6 17h12"></path></svg></a>
+      <button class="rail-icon" type="button" data-logout title="Logout" aria-label="Logout"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"></circle><path d="M12 3v2M12 19v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M3 12h2M19 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"></path></svg></button>
+    </aside>
+
+    <div class="app-frame">
+      <header class="workspace-header">
+        <a class="workspace-title" href="/pipeline">Amazon Seller Discovery</a>
+        <nav class="workspace-tabs" aria-label="Primary">
+          <a href="/pipeline">Pipeline</a>
+          <a href="/review">Review <span id="reviewNavCount">0</span></a>
+          <a class="is-active" href="/dashboard">Dashboard</a>
+        </nav>
+        <div class="workspace-status">
+          <span><i></i>Agents live - synced now</span>
+          <span>Prophet 21 to Amazon Seller Central</span>
+          <button type="button" data-logout>Logout</button>
+        </div>
+      </header>
+
+      <main class="workspace-main">
+        <section class="dashboard-title">
+          <h1>Success of products added to the Amazon catalogue</h1>
+          <p id="dashboardTitleScope">2026 through Jun - refreshed from latest pipeline run</p>
+        </section>
+
+        <section id="dashboardEmpty" class="empty-state">Run the Pipeline first. Dashboard success metrics are generated from approved products in the latest run.</section>
+
+        <section id="dashboardContent" hidden>
+          <section id="dashboardFilters" class="dashboard-filter-panel" aria-label="Dashboard filters">
+            <label>
+              Year
+              <select id="dashboardYear">
+                <option value="2025">2025</option>
+                <option value="2026" selected>2026</option>
+              </select>
+            </label>
+            <label>
+              Month
+              <select id="dashboardMonth">
+                <option value="1">Jan</option>
+                <option value="2">Feb</option>
+                <option value="3">Mar</option>
+                <option value="4">Apr</option>
+                <option value="5">May</option>
+                <option value="6" selected>Jun</option>
+                <option value="7">Jul</option>
+                <option value="8">Aug</option>
+                <option value="9">Sep</option>
+                <option value="10">Oct</option>
+                <option value="11">Nov</option>
+                <option value="12">Dec</option>
+              </select>
+            </label>
+            <label>
+              Eligible SKU
+              <select id="dashboardSku">
+                <option value="all">All eligible SKUs</option>
+              </select>
+            </label>
+            <fieldset>
+              <legend>Risk category</legend>
+              <div class="segmented-control dashboard-risk-filter" role="group" aria-label="Risk category">
+                <button class="is-active" type="button" data-dashboard-risk="all">All</button>
+                <button type="button" data-dashboard-risk="low">Low</button>
+                <button type="button" data-dashboard-risk="medium">Medium</button>
+                <button type="button" data-dashboard-risk="high">High</button>
+              </div>
+            </fieldset>
+          </section>
+
+          <section class="dashboard-kpis">
+            <article>
+              <span class="metric-icon">#</span>
+              <p>Products live on Amazon</p>
+              <strong id="dashProductsLive">0</strong>
+              <small id="dashAddedMonth">+0 added this month</small>
+            </article>
+            <article>
+              <span class="metric-icon">$</span>
+              <p>Revenue (YTD)</p>
+              <strong id="dashRevenueYtd">$0</strong>
+              <small id="dashRunRate">$0/mo run-rate</small>
+            </article>
+            <article>
+              <span class="metric-icon">^</span>
+              <p>Revenue growth</p>
+              <strong id="dashGrowth">0%</strong>
+              <small id="dashGrowthPeriod">current vs prior month</small>
+            </article>
+            <article>
+              <span class="metric-icon">%</span>
+              <p>Blended margin</p>
+              <strong id="dashMargin">0%</strong>
+              <small id="dashMarginDelta">vs required floor</small>
+            </article>
+          </section>
+
+          <section class="dashboard-grid">
+            <article class="metrics-panel">
+              <div class="panel-title-row">
+                <div>
+                  <h2>Revenue &amp; catalogue growth</h2>
+                  <p>Monthly Amazon revenue from added products, and cumulative products live</p>
+                </div>
+                <div class="chart-legend">
+                  <span><i class="revenue-dot"></i>Revenue ($K)</span>
+                  <span><i class="margin-dot"></i>Products live</span>
+                </div>
+              </div>
+              <div id="dashboardGrowthChart" class="dashboard-growth-chart"></div>
+            </article>
+
+            <article class="metrics-panel">
+              <div class="panel-title-row">
+                <div>
+                  <h2>Live catalogue by risk tier</h2>
+                  <p>How added products were approved</p>
+                </div>
+              </div>
+              <div class="risk-visual-wrap">
+                <div id="dashboardRiskDonut" class="risk-donut" aria-label="Live catalogue risk chart"></div>
+                <div id="dashboardRiskLegend" class="risk-legend"></div>
+              </div>
+            </article>
+          </section>
+
+          <section class="dashboard-table-card">
+            <div class="panel-title-row">
+              <div>
+                <h2>Top-performing added products</h2>
+              </div>
+            </div>
+            <table class="dashboard-table">
+              <thead>
+                <tr>
+                  <th>Product</th>
+                  <th>Category</th>
+                  <th>Risk</th>
+                  <th>Approved via</th>
+                  <th>Margin</th>
+                  <th>Revenue (month)</th>
+                  <th>Growth</th>
+                </tr>
+              </thead>
+              <tbody id="dashboardTopProducts"></tbody>
+            </table>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <script src="/static/shell.js?v=20260622-premium-ui1"></script>
+    <script src="/static/dashboard.js?v=20260622-premium-ui1"></script>
+  </body>
+</html>
+

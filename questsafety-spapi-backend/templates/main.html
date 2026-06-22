@@ -1,0 +1,186 @@
+﻿
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>QuestSafety Pipeline</title>
+    <link rel="stylesheet" href="/static/styles.css?v=20260622-manufacturer-filter1">
+  </head>
+  <body class="discovery-app">
+    <aside class="app-rail" aria-label="Workspace navigation">
+      <a class="rail-logo" href="/pipeline" aria-label="Pipeline">Q</a>
+      <a class="rail-icon is-active" href="/pipeline" title="Pipeline" aria-label="Pipeline"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"></circle><path d="M12 3v4M12 17v4M3 12h4M17 12h4"></path></svg></a>
+      <a class="rail-icon has-dot" href="/review" title="Review" aria-label="Review"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 13l4 4L19 6"></path></svg></a>
+      <a class="rail-icon" href="/dashboard" title="Dashboard" aria-label="Dashboard"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 7h12M6 12h12M6 17h12"></path></svg></a>
+      <button class="rail-icon" type="button" data-logout title="Logout" aria-label="Logout"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"></circle><path d="M12 3v2M12 19v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M3 12h2M19 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"></path></svg></button>
+    </aside>
+
+    <div class="app-frame">
+      <header class="workspace-header">
+        <a class="workspace-title" href="/pipeline">Amazon Seller Discovery</a>
+        <nav class="workspace-tabs" aria-label="Primary">
+          <a class="is-active" href="/pipeline">Pipeline</a>
+          <a href="/review">Review <span id="reviewNavCount">0</span></a>
+          <a href="/dashboard">Dashboard</a>
+        </nav>
+        <div class="workspace-status">
+          <span><i></i>Agents live - synced now</span>
+          <span>Prophet 21 to Amazon Seller Central</span>
+          <button type="button" data-logout>Logout</button>
+        </div>
+      </header>
+
+      <main class="workspace-main">
+        <section class="pipeline-controls">
+          <div>
+            <p class="section-kicker">Data discovery</p>
+            <h2>Run the QuestSafety Amazon push pipeline</h2>
+          </div>
+          <label>
+            Search after run
+            <input id="mainSearch" placeholder="SKU, ASIN, Amazon title, skip reason..." autocomplete="off">
+          </label>
+          <label>
+            Status
+            <select id="mainStatusFilter">
+              <option value="all">All products</option>
+              <option value="analyzed">Analyzed only</option>
+              <option value="approved">Approved/listable</option>
+              <option value="review">Review queue</option>
+              <option value="skipped">Skipped/unmatched</option>
+            </select>
+          </label>
+          <label>
+            Manufacturer type
+            <select id="mainManufacturerFilter">
+              <option value="all">All manufacturers</option>
+              <option value="quest">QuestSafety products</option>
+              <option value="nonquest">Other manufacturers</option>
+            </select>
+          </label>
+          <label>
+            Sort
+            <select id="mainSort">
+              <option value="researchScore">Research score</option>
+              <option value="sku">SKU</option>
+              <option value="status">Status</option>
+              <option value="match">Amazon match</option>
+              <option value="revenue">Revenue</option>
+              <option value="margin">Margin</option>
+              <option value="risk">Risk</option>
+            </select>
+          </label>
+          <label>
+            Monthly revenue threshold
+            <input id="revenueThreshold" type="number" min="0" value="2000">
+          </label>
+          <label>
+            Required margin
+            <input id="minMargin" type="number" min="0" max="95" value="20">
+          </label>
+          <button id="runResearchButton" type="button">Run pipeline</button>
+          <button id="resetMain" type="button" class="ghost-orange">Reset</button>
+          <span id="runStatus" class="visually-hidden" hidden>Waiting</span>
+          <span id="headerStatus" class="visually-hidden" hidden>Not run</span>
+          <span id="lastRunTime" class="visually-hidden" hidden>Last run: never</span>
+          <span id="runId" class="visually-hidden" hidden>Run ID: -</span>
+        </section>
+
+        <section class="data-discovery-grid">
+          <article>
+            <div class="source-mark p21">P21</div>
+            <div>
+              <h2>Prophet 21 catalog</h2>
+              <p>Quest ERP - SKUs, cost, availability</p>
+              <strong id="p21SkuCount">0 <span>SKUs</span></strong>
+              <small>Reloaded from current ERP data on each run</small>
+            </div>
+            <dl>
+              <div><dt>Cost coverage</dt><dd id="p21CostCoverage">0%</dd></div>
+              <div><dt>Sync cadence</dt><dd>Hourly</dd></div>
+            </dl>
+          </article>
+
+          <article>
+            <div class="source-mark amazon">a</div>
+            <div>
+              <h2>Amazon marketplace scan</h2>
+              <p>Competitor listings matched to Quest range</p>
+              <strong id="amazonCandidateCount">0 <span>candidates</span></strong>
+              <small>Scan complete after run</small>
+            </div>
+            <dl>
+              <div><dt>Match rate</dt><dd id="amazonMatchRate">0%</dd></div>
+              <div><dt>Unmatched</dt><dd id="amazonExceptionCount">0</dd></div>
+              <div><dt>Scan cadence</dt><dd>Daily</dd></div>
+            </dl>
+          </article>
+        </section>
+
+        <section id="analysisResults" hidden>
+          <section class="summary-strip" aria-label="Research summary">
+            <article>
+              <span>Source products</span>
+              <strong id="summarySourceCount">0</strong>
+            </article>
+            <article>
+              <span>Analyzed</span>
+              <strong id="summarySkuCount">0</strong>
+            </article>
+            <article>
+              <span>Skipped/unmatched</span>
+              <strong id="summarySkippedCount">0</strong>
+            </article>
+            <article>
+              <span>Review queue</span>
+              <strong id="summaryReviewCount">0</strong>
+            </article>
+            <article>
+              <span>Approved/listable</span>
+              <strong id="summaryPushCount">0</strong>
+            </article>
+            <article>
+              <span>Monthly revenue</span>
+              <strong id="summaryRevenue">$0</strong>
+            </article>
+            <article>
+              <span>Weighted margin</span>
+              <strong id="summaryMargin">0%</strong>
+            </article>
+          </section>
+
+          <section class="work-grid">
+            <div>
+              <div class="section-heading">
+                <div>
+                  <p class="section-kicker">Listing queue</p>
+                  <h2>All pipeline results</h2>
+                </div>
+                <span id="queueCount" class="muted-meta">0 products</span>
+              </div>
+              <div id="productQueue" class="product-queue"></div>
+            </div>
+
+            <aside id="decisionStudio" class="decision-studio" aria-live="polite">
+              <div class="studio-header">
+                <div>
+                  <p class="section-kicker">Decision studio</p>
+                  <h2 id="studioSku">Run analysis</h2>
+                </div>
+                <span id="studioScore" class="score-pill">0/100</span>
+              </div>
+              <div id="studioBody" class="studio-body">
+                <div class="empty-state">Run the pipeline to see recommendation, competitors, decision gates, and risk analysis.</div>
+              </div>
+            </aside>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <script src="/static/shell.js?v=20260622-manufacturer-filter1"></script>
+    <script src="/static/main.js?v=20260622-manufacturer-filter1"></script>
+  </body>
+</html>
+

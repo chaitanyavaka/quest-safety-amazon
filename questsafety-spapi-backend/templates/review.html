@@ -1,0 +1,129 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>QuestSafety Review</title>
+    <link rel="stylesheet" href="/static/styles.css?v=20260620-realtime1">
+  </head>
+  <body class="discovery-app">
+    <aside class="app-rail" aria-label="Workspace navigation">
+      <a class="rail-logo" href="/pipeline" aria-label="Pipeline">Q</a>
+      <a class="rail-icon" href="/pipeline" title="Pipeline" aria-label="Pipeline"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"></circle><path d="M12 3v4M12 17v4M3 12h4M17 12h4"></path></svg></a>
+      <a class="rail-icon is-active has-dot" href="/review" title="Review" aria-label="Review"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 13l4 4L19 6"></path></svg></a>
+      <a class="rail-icon" href="/dashboard" title="Dashboard" aria-label="Dashboard"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 7h12M6 12h12M6 17h12"></path></svg></a>
+      <button class="rail-icon" type="button" data-logout title="Logout" aria-label="Logout"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"></circle><path d="M12 3v2M12 19v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M3 12h2M19 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"></path></svg></button>
+    </aside>
+
+    <div class="app-frame">
+      <header class="workspace-header">
+        <a class="workspace-title" href="/pipeline">Amazon Seller Discovery</a>
+        <nav class="workspace-tabs" aria-label="Primary">
+          <a href="/pipeline">Pipeline</a>
+          <a class="is-active" href="/review">Review <span id="reviewNavCount">0</span></a>
+          <a href="/dashboard">Dashboard</a>
+        </nav>
+        <div class="workspace-status">
+          <span><i></i>Agents live - synced now</span>
+          <span>Prophet 21 to Amazon Seller Central</span>
+          <button type="button" data-logout>Logout</button>
+        </div>
+      </header>
+
+      <main class="workspace-main">
+        <section class="review-tabs" aria-label="Review views">
+          <button class="is-active" type="button" data-review-tab="high">High-risk queue <span id="highTabCount">0</span></button>
+          <button type="button" data-review-tab="medium">Medium-risk batches <span id="mediumTabCount">0</span></button>
+          <button type="button" data-review-tab="history">Decision history</button>
+        </section>
+
+        <section id="reviewEmpty" class="empty-state">Run the Pipeline first. Review queues are generated from the latest pipeline run.</section>
+
+        <section id="highReviewPanel" class="review-grid" hidden>
+          <aside class="review-list-card">
+            <div class="review-card-head">
+              <div>
+                <h2>Awaiting your decision</h2>
+                <p>High-risk SKUs routed to a human</p>
+              </div>
+              <span id="highQueueCount">0</span>
+            </div>
+            <div class="review-filter-pills">
+              <button class="is-active" type="button">All</button>
+              <button type="button">Thin margin</button>
+              <button type="button">Regulated</button>
+            </div>
+            <div id="highQueueList" class="review-product-list"></div>
+          </aside>
+
+          <article class="review-detail-card">
+            <div class="approval-steps">
+              <span class="done">OK Discovered</span>
+              <span class="done">OK Margin analyzed</span>
+              <span class="done">OK Categorized: High</span>
+              <span class="active">Your approval</span>
+              <span>Listed</span>
+            </div>
+
+            <div class="decision-banner">
+              <span>!</span>
+              <div>
+                <h2>Your decision needed</h2>
+                <p id="reviewReason">Routed because one or more gates need human review.</p>
+              </div>
+            </div>
+
+            <div class="review-action-row">
+              <button id="approveHighRisk" type="button" class="approve-button">Approve</button>
+              <button id="rejectHighRisk" type="button" class="ghost-orange">Reject</button>
+            </div>
+
+            <section id="highReviewDetail" class="review-detail-body"></section>
+          </article>
+        </section>
+
+        <section id="mediumReviewPanel" class="review-table-card" hidden>
+          <div class="review-table-head">
+            <div>
+              <h2>Medium-risk batch approval</h2>
+              <p>Solid economics - review the batch and approve in one action</p>
+            </div>
+            <div>
+              <strong id="mediumSelectedCount">0 selected</strong>
+              <button id="clearMediumSelection" type="button" class="ghost-orange">Clear</button>
+              <button id="approveMediumSelection" type="button" class="approve-button">Approve selected</button>
+            </div>
+          </div>
+          <table class="review-table">
+            <thead>
+              <tr>
+                <th class="select-all-col"><label class="table-select-all"><input id="mediumSelectAll" type="checkbox"><span>Select all</span></label></th>
+                <th>Product</th>
+                <th>Category</th>
+                <th>Batch</th>
+                <th>Margin</th>
+                <th>List price</th>
+                <th>Proj. rev</th>
+              </tr>
+            </thead>
+            <tbody id="mediumBatchRows"></tbody>
+          </table>
+        </section>
+
+        <section id="historyReviewPanel" class="review-table-card" hidden>
+          <div class="review-table-head">
+            <div>
+              <h2>Recent decisions</h2>
+              <p>Audit trail of approvals, edits, and rejections</p>
+            </div>
+          </div>
+          <div id="decisionHistoryList" class="history-list"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="/static/shell.js?v=20260620-realtime1"></script>
+    <script src="/static/review.js?v=20260620-realtime1"></script>
+  </body>
+</html>
+

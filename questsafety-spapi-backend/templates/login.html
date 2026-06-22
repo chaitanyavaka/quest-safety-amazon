@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>QuestSafety Login</title>
+    <link rel="stylesheet" href="/static/styles.css?v=20260613-admin11">
+  </head>
+  <body class="login-body">
+    <main class="login-shell">
+      <section class="login-panel">
+        <div class="login-brand">
+          <div class="rail-logo">Q</div>
+          <div>
+            <p>Quest Safety Products</p>
+            <h1>Amazon Seller Discovery</h1>
+          </div>
+        </div>
+
+        <form id="loginForm" class="login-form">
+          <label>
+            Username
+            <input id="loginUsername" value="quest" autocomplete="username">
+          </label>
+          <label>
+            Password
+            <input id="loginPassword" type="password" value="12345678" autocomplete="current-password">
+          </label>
+          <button type="submit">Login</button>
+          <p id="loginError" class="login-error" hidden></p>
+        </form>
+      </section>
+    </main>
+
+    <script src="/static/login.js?v=20260613-admin11"></script>
+  </body>
+</html>
